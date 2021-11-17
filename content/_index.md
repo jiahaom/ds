@@ -9,7 +9,7 @@ Host your second brain and [digital garden](https://jiahaom.github.io/ds/) for f
 5. Endlessly powerful page and theme customization
 
 ## Get Started
-> 📚 [Setup your own digital garden using Quartz](ECS7020P Principles of ML Introduction/Structure/Machine Learning.md)
+> 📚 [Main Structure](ECS7020P Principles of ML Introduction/Structure/Machine Learning.md)
 
 Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
