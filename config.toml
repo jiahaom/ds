@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://jiahaom.github.io/ds/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-LR9GM494F8"
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
