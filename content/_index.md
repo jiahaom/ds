@@ -10,7 +10,7 @@ Host your second brain and [digital garden](https://jiahaom.github.io/ds/) for f
 
 ## Get Started
 > 📚 [Main Structure](Machine_Learning/Introduction.md)
-> 📚 [Main Structure](Machine_Learning/Regression Quality Metric.md)
+> 📚 [Main Structure](Machine_Learning/Regression_Quality_Metric.md)
 Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
 ## Troubleshooting
