@@ -1,5 +1,6 @@
 ---
 title: "Regression Quality Metric"
+mathjax: true
 ---
 - think it before build it
 ***
