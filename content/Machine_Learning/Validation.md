@@ -51,7 +51,7 @@ mathjax: true
 	C --> E(Leaf: good)
 	```
 - splits are axis-parallel
-	- otherwise use [[Machine_Learning/Linear_Classifier]]
+	- otherwise use [[content/Machine_Learning/Linear_Classifier]]
 ### The XOR problem ^0ccc67
 - ![[Screenshot 2021-11-02 at 22.25.45.png]]
 

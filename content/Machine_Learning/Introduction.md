@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 # Machine Learning
-- tools for modeling and understanding [[Machine_Learning/Introduction#^a091d7|data]] --> [[Machine_Learning/Introduction#^d8965c|knowledge]]
+- tools for modeling and understanding [[content/Machine_Learning/Introduction#^a091d7|data]] --> [[content/Machine_Learning/Introduction#^d8965c|knowledge]]
 
 ## Data
 - an observation or measurement or item ^a091d7
@@ -16,7 +16,7 @@ mathjax: true
 	- HR (bpm): 480, 250 ...
 
 ## Science
-- [[Machine_Learning/Introduction#^240154|evaluating]] our knowledge >>> sophisticated instrumentation
+- [[content/Machine_Learning/Introduction#^240154|evaluating]] our knowledge >>> sophisticated instrumentation
 
 	### evaluation
 	- data with accepted knowledge  ^240154

@@ -3,14 +3,14 @@ title: "Classification_Quality_Metric"
 mathjax: true
 ---
 ## Accuracy
-[[Machine_Learning/Regression_Quality_Metric#^e51d1f]]
-- [[Machine_Learning/KNN]] and [[Machine_Learning/Logistic_Model#^bbc977|Logistic Regression]] don't have!
+[[content/Machine_Learning/Regression_Quality_Metric#^e51d1f]]
+- [[content/Machine_Learning/KNN]] and [[content/Machine_Learning/Logistic_Model#^bbc977|Logistic Regression]] don't have!
 ***
 ## Error Rate
-[[Machine_Learning/Regression_Quality_Metric#^9d4269]]
-- [[Machine_Learning/KNN]] and [[Machine_Learning/Logistic_Model#^bbc977|Logistic Regression]] don't have!
+[[content/Machine_Learning/Regression_Quality_Metric#^9d4269]]
+- [[content/Machine_Learning/KNN]] and [[content/Machine_Learning/Logistic_Model#^bbc977|Logistic Regression]] don't have!
 ***
-## [[Machine_Learning/The_Bayes_Classifier#^a80775|A Bayesian Extension]]
+## [[content/Machine_Learning/The_Bayes_Classifier#^a80775|A Bayesian Extension]]
 > if 1 patient in 1000 people, we say all people are healthy, the accuracy is 99.9%.
 
 ## Confusion Matrix

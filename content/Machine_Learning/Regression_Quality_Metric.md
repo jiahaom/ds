@@ -25,7 +25,7 @@ $E = \frac {N(incorrect\ samples)}{N(samples)}$
 
 ### The least squares ^d91d7e
 
-[[Machine_Learning/Optimisation#^bab8a8|MMSE: the best model for training data]]
+[[content/Machine_Learning/Optimisation#^bab8a8|MMSE: the best model for training data]]
 - might not be the best model during deployment
 - $w =(X^TX)^{-1}X^Ty$
 	-	$X: design\ matrix$

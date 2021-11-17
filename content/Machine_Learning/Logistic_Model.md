@@ -21,10 +21,10 @@ mathjax: true
 
 ## Regression ^bbc977
 - $L= \prod_{y=red} (1 − p(x_i)) \prod_{y=blue} p(x_i) = 0$
-### [[Machine_Learning/Regression_Quality_Metric]]
+### [[content/Machine_Learning/Regression_Quality_Metric]]
 - doesn't use accuracy and error rate!
 - likelihood function: $l= \sum_{y=red} log[(1 − p(x_i)]+\sum_{y=blue} log[p(x_i)] = 0$
-- to tune/ find maximizes L or l: [[Machine_Learning/Optimisation#^e433dc|Gradient Descent]]
+- to tune/ find maximizes L or l: [[content/Machine_Learning/Optimisation#^e433dc|Gradient Descent]]
 
 -e.g. 
 - $p(0) = 0.5, p(1) ≈ 0.73, p(2) ≈ 0.88, p(−1) ≈ 0.27, p(−2) ≈ 0.12$![[Screenshot 2021-11-16 at 22.54.45.png]]

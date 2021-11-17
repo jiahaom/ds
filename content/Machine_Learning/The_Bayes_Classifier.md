@@ -28,7 +28,7 @@ mathjax: true
 - $P(x=a|y=blue) = \frac {2}{3}$
 - $P(x=b|y=blue) = \frac {1}{3}$
 ### Estimate
-1. build class densities: [[Machine_Learning/Structure/Unsupervised_Learning]]
+1. build class densities: [[content/Machine_Learning/Structure/Unsupervised_Learning]]
 2.  ## Gaussian Density
 	### Discriminant Analysis
 - we assume the class densities are Gaussian.
@@ -58,7 +58,7 @@ is variance of the Gaussian density.
 
 
 # A Bayesian Extension ^a80775
-[[Machine_Learning/Classification_Quality_Metric]]
+[[content/Machine_Learning/Classification_Quality_Metric]]
 
 
 ### Minimize the Cost

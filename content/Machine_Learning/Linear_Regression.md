@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 ### The best linear model for training data: 
-- [[Machine_Learning/Regression_Quality_Metric#^d91d7e|The least squares]]
+- [[content/Machine_Learning/Regression_Quality_Metric#^d91d7e|The least squares]]
 ## Simple Linear Regression
 - $f(x) = w_0+w_1x$
 
