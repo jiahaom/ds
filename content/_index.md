@@ -9,12 +9,12 @@ Host your second brain and [digital garden](https://jiahaom.github.io/ds/) for f
 5. Endlessly powerful page and theme customization
 
 ## Get Started
-> 📚[Classification](Machine_Learning/Structure/Classification.md)
 > 📚[Machine_Learning](Machine_Learning/Structure/Machine_Learning.md)
-> 📚[Regression](Machine_Learning/Structure/Regression.md)
+
 > 📚[Supervised_Learning](Machine_Learning/Structure/Supervised_Learning.md)
+> 📚[Classification](Machine_Learning/Structure/Classification.md)
+> 📚[Regression](Machine_Learning/Structure/Regression.md)
+
 > 📚[Unsupervised_Learning](Machine_Learning/Structure/Unsupervised_Learning.md)
 
-
-Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
