@@ -12,7 +12,7 @@ Host your second brain and [digital garden](https://jiahaom.github.io/ds/) for f
 > 📚[Machine_Learning](Machine_Learning/Structure/Machine_Learning.md)
 
 > 📚[Supervised_Learning](Machine_Learning/Structure/Supervised_Learning.md)
-> 📚[Classification](Machine_Learning/Structure/Classification.md)
+> 📚[Classification](Machine_Learning/Classification.md)
 > 📚[Regression](Machine_Learning/Structure/Regression.md)
 
 > 📚[Unsupervised_Learning](Machine_Learning/Structure/Unsupervised_Learning.md)
