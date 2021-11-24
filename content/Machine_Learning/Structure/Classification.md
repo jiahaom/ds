@@ -8,13 +8,13 @@ mathjax: true
 - use datasets to *obtain/estimate* the (#^68e85f|Posterior Probabilities.md) instead of *using*.
 ***
 ## Type
-- [Linear_Classifier](content/Machine_Learning/Linear_Classifier.md): the simplest boundary
-- [Logistic Classifier](content/Machine_Learning/Logistic_Model.md): Approximated [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
-- K-Nearest.md: Approximated [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
-- [The_Bayes_Classifier](content/Machine_Learning/The_Bayes_Classifier.md): True [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
+- [Linear_Classifier](Linear_Classifier.md): the simplest boundary
+- [Logistic Classifier](Logistic_Model.md): Approximated [Posterior Probabilities](The_Bayes_Classifier.md)
+- K-Nearest.md: Approximated [Posterior Probabilities](The_Bayes_Classifier.md)
+- (The_Bayes_Classifier.md): True [Posterior Probabilities](The_Bayes_Classifier.md)
 ***
 ## Evaluation
-[Classification_Quality_Metric](content/Machine_Learning/Classification_Quality_Metric.md)
+[Classification_Quality_Metric](Classification_Quality_Metric.md)
 
 ***
 - Shape of boundaries: Logistic regression and LDA build linear boundaries, QDA quadratic boundaries. kNN does not impose any particular shape.
