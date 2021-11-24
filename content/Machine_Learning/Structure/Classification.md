@@ -8,7 +8,7 @@ mathjax: true
 - use datasets to *obtain/estimate* the [[#^68e85f|Posterior Probabilities]] instead of *using*.
 ***
 ## Type
-- [[content/Machine_Learning/Linear_Classifier]]: the simplest boundary
+- (content/Machine_Learning/Linear_Classifier): the simplest boundary
 - [[content/Machine_Learning/Logistic_Model#^d37bff|Logistic Classifier]]: Approximated [[content/Machine_Learning/The_Bayes_Classifier#^68e85f|Posterior Probabilities]]
 - [[K-Nearest]]: Approximated [[content/Machine_Learning/The_Bayes_Classifier#^68e85f|Posterior Probabilities]]
 - [[content/Machine_Learning/The_Bayes_Classifier]]: True [[content/Machine_Learning/The_Bayes_Classifier#^68e85f|Posterior Probabilities]]
