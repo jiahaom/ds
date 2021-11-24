@@ -27,8 +27,9 @@ mathjax: true
 - to tune/ find maximizes L or l: [Gradient_Descent](/Machine_Learning/Optimisation.md)
 
 -e.g. 
-- $p(0) = 0.5, p(1) ≈ 0.73, p(2) ≈ 0.88, p(−1) ≈ 0.27, p(−2) ≈ 0.12  ![pic](/Machine_Learning/pics/Screenshot 2021-11-16 at 22.54.45.png)
+- $p(0) = 0.5, p(1) ≈ 0.73, p(2) ≈ 0.88, p(−1) ≈ 0.27, p(−2) ≈ 0.12  
+![pic](/Machine_Learning/pics/Screenshot 2021-11-16 at 22.54.45.png)
 
-	-  $d(triangle) = 2, d(square)=-2$
+	- $d(triangle) = 2, d(square)=-2$
 	- $p(triangle) ≈ 0.88, 1 − p(square) ≈ 0.88$ 
 	- $L = p(triangle) (1 − p(square)) ≈ 0.77$
