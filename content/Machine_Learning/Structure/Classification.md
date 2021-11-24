@@ -14,7 +14,7 @@ mathjax: true
 - (content/Machine_Learning/The_Bayes_Classifier.md): True [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
 ***
 ## Evaluation
-(content/Machine_Learning/Classification_Quality_Metric.md)
+[Classification_Quality_Metric](content/Machine_Learning/Classification_Quality_Metric.md)
 
 ***
 - Shape of boundaries: Logistic regression and LDA build linear boundaries, QDA quadratic boundaries. kNN does not impose any particular shape.
