@@ -11,7 +11,7 @@ mathjax: true
 - [Linear_Classifier](content/Machine_Learning/Linear_Classifier.md): the simplest boundary
 - [Logistic Classifier](content/Machine_Learning/Logistic_Model.md): Approximated [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
 - K-Nearest.md: Approximated [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
-- (content/Machine_Learning/The_Bayes_Classifier.md): True [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
+- [The_Bayes_Classifier](content/Machine_Learning/The_Bayes_Classifier.md): True [Posterior Probabilities](content/Machine_Learning/The_Bayes_Classifier.md)
 ***
 ## Evaluation
 [Classification_Quality_Metric](content/Machine_Learning/Classification_Quality_Metric.md)
