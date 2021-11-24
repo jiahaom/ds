@@ -7,7 +7,7 @@ mathjax: true
 - [[content/Machine_Learning/KNN]] and [[content/Machine_Learning/Logistic_Model#^bbc977|Logistic Regression]] don't have!
 ***
 ## Error Rate
-[[content/Machine_Learning/Regression_Quality_Metric#^9d4269]]
+(content/Machine_Learning/Regression_Quality_Metric#^9d4269)
 - [[content/Machine_Learning/KNN]] and [[content/Machine_Learning/Logistic_Model#^bbc977|Logistic Regression]] don't have!
 ***
 ## [[content/Machine_Learning/The_Bayes_Classifier#^a80775|A Bayesian Extension]]
